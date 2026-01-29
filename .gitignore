@@ -215,3 +215,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
+flower/
+dataset_resized/
+dataset_resized_unbalanced_128/
+dataset_resized_unbalanced_256/
+*.zip

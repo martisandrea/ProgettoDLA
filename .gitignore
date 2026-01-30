@@ -219,4 +219,5 @@ flower/
 dataset_resized/
 dataset_resized_unbalanced_128/
 dataset_resized_unbalanced_256/
+dataset_resized_3split_unbalanced_128/
 *.zip
